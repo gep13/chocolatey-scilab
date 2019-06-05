@@ -1,5 +1,5 @@
-﻿$packageName = '{{PackageName}}'
-$packageSearch = '{{PackageName}}-{{PackageVersion}}'
+﻿$packageName = 'scilab'
+$packageSearch = 'scilab-6.0.2'
 $installerType = 'exe'
 $silentArgs = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-'
 $validExitCodes = @(0)

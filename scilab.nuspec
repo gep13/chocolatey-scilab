@@ -1,16 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">  
   <metadata>
-    <id>{{PackageName}}</id>
+    <id>scilab</id>
     <title>Scilab</title>
-    <version>{{PackageVersion}}</version>
+    <version>6.0.2</version>
     <authors>Scilab Enterprises</authors>
-    <owners>dtgm</owners>
+    <owners>BasicTheProgram</owners>
+    <packageSourceUrl>https://github.com/basictheprogram/chocolatey-scilab</packageSourceUrl>
+    <projectUrl>https://www.scilab.org/</projectUrl>
+    <projectSourceUrl>https://www.scilab.org/development/sources/</projectSourceUrl>
+    <bugTrackerUrl>http://bugzilla.scilab.org/</bugTrackerUrl>
+    <docsUrl>http://www.scilab.org/en/resources/documentation</docsUrl>
+    <mailingListUrl>http://www.scilab.org/en/development/ml</mailingListUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/basictheprogram/chocolatey-scilab/icons/scilab.png</iconUrl>
+    <tags>mathematics numerical computation admin</tags>
+    <copyright>© Scilab Enterprises S.A.S, Inria</copyright>
+    <licenseUrl>https://www.scilab.org/scilab/license</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <summary>Scientific software for analysis and modeling numerical computation</summary>
     <description>
-Scilab is free and open source software for numerical computation providing a powerful computing environment for engineering and scientific applications. 
+Scilab is free and open source software for numerical computation providing a powerful computing environment for engineering and 
+scientific applications. 
 
-Scilab includes hundreds of mathematical functions. It has a high level programming language allowing access to advanced data structures, 2-D and 3-D graphical functions.
+Scilab includes hundreds of mathematical functions. It has a high level programming language allowing access to advanced data 
+structures, 2-D and 3-D graphical functions.
 
 #### [Features](https://www.scilab.org/scilab/features/)
 
@@ -25,7 +38,10 @@ Scilab includes hundreds of mathematical functions. It has a high level programm
 
 #### Scilab as a platform
 
-Thanks to its ability to interconnect with [third-party technologies](https://www.scilab.org/scilab/interoperability/calculation_engine) and [applications](https://www.scilab.org/scilab/interoperability/connection_applications), Scilab can also act as a unique platform to bring together codes written in [different programming languages](https://www.scilab.org/scilab/interoperability/connection_languages) in a single, unified language, thus facilitating their distribution, their back-up and use.
+Thanks to its ability to interconnect with [third-party technologies](https://www.scilab.org/scilab/interoperability/calculation_engine) 
+and [applications](https://www.scilab.org/scilab/interoperability/connection_applications), Scilab can also act as a unique platform to bring 
+together codes written in [different programming languages](https://www.scilab.org/scilab/interoperability/connection_languages) in a single, 
+unified language, thus facilitating their distribution, their back-up and use.
 
 * [Screenshots](https://www.scilab.org/scilab/gallery)
 * [Tutorials](http://www.scilab.org/en/resources/documentation/tutorials)
@@ -39,17 +55,6 @@ Thanks to its ability to interconnect with [third-party technologies](https://ww
 * [IRC](http://www.scilab.org/resources/user_community/irc)
 * [Social media platforms](http://www.scilab.org/community/connect)
     </description>
-    <packageSourceUrl>https://github.com/dtgm/chocolatey-packages/tree/master/automatic/{{PackageName}}/</packageSourceUrl>
-    <projectUrl>https://www.scilab.org/</projectUrl>
-    <projectSourceUrl>https://www.scilab.org/development/sources/</projectSourceUrl>
-    <bugTrackerUrl>http://bugzilla.scilab.org/</bugTrackerUrl>
-    <docsUrl>http://www.scilab.org/en/resources/documentation</docsUrl>
-    <mailingListUrl>http://www.scilab.org/en/development/ml</mailingListUrl>
-    <iconUrl>https://cdn.rawgit.com/dtgm/chocolatey-packages/d11226adb2eea0b1211ccdb429a16d52c2e5718c/icons/{{PackageName}}.png</iconUrl>
-    <tags>mathematics numerical computation admin</tags>
-    <copyright>© Scilab Enterprises S.A.S, Inria</copyright>
-    <licenseUrl>https://www.scilab.org/scilab/license</licenseUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <releaseNotes>
 #### Program
 * [Changelog](http://gitweb.scilab.org/?p=scilab.git;a=tree;f=scilab)
@@ -57,7 +62,7 @@ Thanks to its ability to interconnect with [third-party technologies](https://ww
 * [Version history](https://www.scilab.org/scilab/history/version/)
 
 #### Package
-* Automatically built and uploaded by [dtgm](https://chocolatey.org/profiles/dtgm)
+* Manually built and uploaded by [BasicTheProgram](https://chocolatey.org/profiles/basictheprogram)
     </releaseNotes>
   </metadata>
   <files>
