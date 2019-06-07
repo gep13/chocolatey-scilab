@@ -10,12 +10,12 @@
     <projectUrl>https://www.scilab.org/</projectUrl>
     <projectSourceUrl>https://www.scilab.org/development/sources/</projectSourceUrl>
     <bugTrackerUrl>http://bugzilla.scilab.org/</bugTrackerUrl>
-    <docsUrl>http://www.scilab.org/en/resources/documentation</docsUrl>
+    <docsUrl>https://wiki.scilab.org/Documentation</docsUrl>
     <mailingListUrl>http://www.scilab.org/en/development/ml</mailingListUrl>
     <iconUrl>https://cdn.jsdelivr.net/gh/basictheprogram/chocolatey-scilab/icons/scilab.png</iconUrl>
     <tags>mathematics numerical computation admin</tags>
     <copyright>© Scilab Enterprises S.A.S, Inria</copyright>
-    <licenseUrl>https://www.scilab.org/scilab/license</licenseUrl>
+    <licenseUrl>https://www.gnu.org/licenses/gpl-2.0.en.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <summary>Scientific software for analysis and modeling numerical computation</summary>
     <description>
