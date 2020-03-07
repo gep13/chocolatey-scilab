@@ -3,7 +3,7 @@
   <metadata>
     <id>scilab</id>
     <title>Scilab</title>
-    <version>6.0.2</version>
+    <version>6.1.0</version>
     <authors>Scilab Enterprises</authors>
     <owners>BasicTheProgram</owners>
     <packageSourceUrl>https://github.com/basictheprogram/chocolatey-scilab</packageSourceUrl>
