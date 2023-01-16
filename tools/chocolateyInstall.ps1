@@ -6,8 +6,8 @@ $toolsDir = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $packageArgs = @{
     packageName     = $env:ChocolateyPackageName
     unzipLocation   = $toolsDir
-    $fileType       = 'exe'
-    $silentArgs     = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-'
+    fileType       = 'exe'
+    silentArgs     = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-'
     softwareName    = 'scilab'
     validExitCodes  = @(0)
 
