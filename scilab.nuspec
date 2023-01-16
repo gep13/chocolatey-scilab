@@ -6,13 +6,13 @@
     <version>6.1.1</version>
     <authors>Scilab Enterprises</authors>
     <owners>BasicTheProgram</owners>
-    <packageSourceUrl>https://github.com/basictheprogram/chocolatey-scilab</packageSourceUrl>
+    <packageSourceUrl>https://gitlab.com/chocolatey-packages1/chocolatey-scilab</packageSourceUrl>
     <projectUrl>https://www.scilab.org/</projectUrl>
     <projectSourceUrl>https://www.scilab.org/development/sources/</projectSourceUrl>
     <bugTrackerUrl>http://bugzilla.scilab.org/</bugTrackerUrl>
     <docsUrl>https://wiki.scilab.org/Documentation</docsUrl>
     <mailingListUrl>http://www.scilab.org/en/development/ml</mailingListUrl>
-    <iconUrl>https://cdn.jsdelivr.net/gh/basictheprogram/chocolatey-scilab/icons/scilab.png</iconUrl>
+    <iconUrl>https://cdn.statically.io/gl/chocolatey-packages1/chocolatey-scilab/icons/scilab.png</iconUrl>
     <tags>mathematics numerical computation admin</tags>
     <copyright>© Scilab Enterprises S.A.S, Inria</copyright>
     <licenseUrl>https://www.gnu.org/licenses/gpl-2.0.en.html</licenseUrl>
