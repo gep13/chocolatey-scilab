@@ -8,10 +8,10 @@
     <owners>BasicTheProgram</owners>
     <packageSourceUrl>https://gitlab.com/chocolatey-packages1/chocolatey-scilab</packageSourceUrl>
     <projectUrl>https://www.scilab.org/</projectUrl>
-    <projectSourceUrl>https://www.scilab.org/development/sources/</projectSourceUrl>
+    <projectSourceUrl>https://www.scilab.org/download/scilab-6.1.1</projectSourceUrl>
     <bugTrackerUrl>http://bugzilla.scilab.org/</bugTrackerUrl>
     <docsUrl>https://wiki.scilab.org/Documentation</docsUrl>
-    <mailingListUrl>http://www.scilab.org/en/development/ml</mailingListUrl>
+    <mailingListUrl>https://www.scilab.org/about/community/mailing-lists</mailingListUrl>
     <iconUrl>https://cdn.statically.io/gl/chocolatey-packages1/chocolatey-scilab/icons/scilab.png</iconUrl>
     <tags>mathematics numerical computation admin</tags>
     <copyright>© Scilab Enterprises S.A.S, Inria</copyright>
@@ -57,9 +57,9 @@ unified language, thus facilitating their distribution, their back-up and use.
     </description>
     <releaseNotes>
 #### Program
-* [Changelog](http://gitweb.scilab.org/?p=scilab.git;a=tree;f=scilab)
-* [Development](https://www.scilab.org/development/)
-* [Version history](https://www.scilab.org/scilab/history/version/)
+* [Changelog](https://help.scilab.org/docs/6.1.1/en_US/CHANGES.html)
+* [Development](https://gitlab.com/scilab/scilab/)
+* [Version history](https://www.scilab.org/scilab-version-history)
 
 #### Package
 * Manually built and uploaded by [BasicTheProgram](https://chocolatey.org/profiles/basictheprogram)
