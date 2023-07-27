@@ -1,8 +1,5 @@
 @{
-    url = 'https://oos.eu-west-2.outscale.com/scilab-releases/6.1.1/scilab-6.1.1.exe'
-    checksum = '43336cda96251d3dde9106fc5f1302ae722ab83e8a6bf894dff3238ea02be779'
-    checksumType = 'sha256'
-    url64 = 'https://oos.eu-west-2.outscale.com/scilab-releases/6.1.1/scilab-6.1.1_x64.exe'
-    checksum64 = '349f40c2b2906003ce82c4a8a37fc4dee4cf85bb3eb783020cc7e8ae815a6a0d'
+    url64 = 'https://www.scilab.org/download/2023.0.0/scilab-2023.0.0.bin.x64.exe'
+    checksum64 = '91fe57f4a9dc441fb8f818a2b4a4023dea579395a52332a3e7878ee82040e737'
     checksumType64 = 'sha256'
 }

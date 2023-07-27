@@ -11,10 +11,6 @@ $packageArgs = @{
     softwareName    = 'scilab'
     validExitCodes  = @(0)
 
-    url             = $data.url
-    checksum        = $data.checksum
-    checksumType    = $data.checksumType
-
     url64           = $data.url64
     checksum64      = $data.checksum64
     checksumType64  = $data.checksumType64
