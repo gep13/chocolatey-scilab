@@ -3,12 +3,12 @@
   <metadata>
     <id>scilab</id>
     <title>Scilab</title>
-    <version>2023.1.0</version>
+    <version>2024.0.0</version>
     <authors>Scilab Enterprises</authors>
     <owners>BasicTheProgram</owners>
     <packageSourceUrl>https://gitlab.com/chocolatey-packages1/chocolatey-scilab</packageSourceUrl>
     <projectUrl>https://www.scilab.org/</projectUrl>
-    <projectSourceUrl>https://www.scilab.org/download/2023.1.0/scilab-2023.1.0.bin.x64.exe</projectSourceUrl>
+    <projectSourceUrl>https://www.scilab.org/download/2024.0.0/scilab-2024.0.0.bin.x64.exe</projectSourceUrl>
     <bugTrackerUrl>http://bugzilla.scilab.org/</bugTrackerUrl>
     <docsUrl>https://wiki.scilab.org/Documentation</docsUrl>
     <mailingListUrl>https://www.scilab.org/about/community/mailing-lists</mailingListUrl>
