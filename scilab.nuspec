@@ -6,7 +6,7 @@
     <version>6.1.1</version>
     <authors>Scilab Enterprises</authors>
     <owners>BasicTheProgram</owners>
-    <packageSourceUrl>https://gitlab.com/chocolatey-packages1/chocolatey-scilab</packageSourceUrl>
+    <packageSourceUrl>https://github.com/basictheprogram/chocolatey-scilab/chocolatey-scilab</packageSourceUrl>
     <projectUrl>https://www.scilab.org/</projectUrl>
     <projectSourceUrl>https://www.scilab.org/development/sources/</projectSourceUrl>
     <bugTrackerUrl>http://bugzilla.scilab.org/</bugTrackerUrl>
